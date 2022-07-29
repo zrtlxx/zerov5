@@ -62,7 +62,7 @@ global.psaweria = '-'
 global.nomorbot = '6282119790833'
 global.nomorown = '6281223084340'
 global.namebot = 'Zero BOT'
-global.nameown = 'ᴠᴀɴᴇꜱꜱᴀ-ᴅᴇꜱᴜ'
+global.nameown = 'PebriyanGanz'
 
 
 /*============== STAFF ==============*/
@@ -70,7 +70,7 @@ global.owner = [
   ['6281223084340'],
   ['6281223084340'],
   ['18126338970'],
-  ['6285334930628', 'ᴠᴀɴᴇꜱꜱᴀ-ᴅᴇꜱᴜ', true]
+  ['6281223084340', 'Zero', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -115,7 +115,7 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 ƘZeroBotz あ⁩ 」' //Main Watermark
+global.wm = '                「 ZeroBotz あ⁩ 」' //Main Watermark
 global.wm2 = 'by Pebriyan'
 global.wm3 = 'ZeroBotz'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
